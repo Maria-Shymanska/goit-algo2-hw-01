@@ -32,6 +32,6 @@ Design an algorithm to locate the k-th smallest element in an unsorted array usi
 
 #### Results:
 
-Array: [-98, 65, -20, -73, -54, -23, -33, 55, -73, 86, 31, -42, 16, 83, 42, -45]
+Array: [7, 10, 4, 3, 20, 15]
 
-6-th smallest element: -33
+the 3-th smallest element: 7
