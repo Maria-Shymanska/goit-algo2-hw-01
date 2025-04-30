@@ -17,7 +17,7 @@ Develop a function that determines the smallest and largest elements in an array
 
 Array: [34, -12, 0, 77, -56, 23, 99, -100, 38, 17, -35, 84, 65, -87, 28, 70, -44, 11, 92, -68]
 
-Minimum element: -100, Maximum element: 99
+Minimum element: -100, Maximum element: 100
 
 ### Task 2: Finding the k-th Smallest Element
 
